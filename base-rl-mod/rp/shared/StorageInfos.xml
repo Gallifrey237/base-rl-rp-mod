@@ -1,0 +1,13 @@
+<storage>
+	<options>
+		<storage type="1" 		name="Default Inventory" 	size="40" 			useage="true" aka="OwnStorage;1"/>
+		<storage type="2" 		name="Fast Selection" 		size="10" 			useage="true" aka="OwnStorage;2"/>
+		<storage type="3" 		name="bank storage" 		size="100" 			useage="false"/>
+		<storage type="4" 		name="mail storage" 		size="unlimited"	useage="false"/>
+		<storage type="5" 		name="faction storage" 		size="200" 			useage="false"/>
+		<storage type="6" 		name="gang storage" 		size="100"			useage="false"/>
+		<storage type="7" 		name="business storage" 	size="100" 			useage="false"/>
+		<storage type="1000" 	name="junk storage" 		size="unlimited" 	useage="false"/>
+		<storage type="5000" 	name="generic storage" 		size="unlimited" 	useage="false"/>
+	</options>
+</storage>

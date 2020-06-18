@@ -1,0 +1,11 @@
+<map edf:definitions="editor_main">
+    <object id="convertFFS (0)" breakable="true" interior="0" collisions="true" alpha="255" model="835" doublesided="false" scale="1" dimension="0" posX="-2028.8574" posY="-317.89941" posZ="36.26185" rotX="0" rotY="0" rotZ="182.999"></object>
+    <object id="convertFFS (1)" breakable="true" interior="0" collisions="true" alpha="255" model="836" doublesided="false" scale="1" dimension="0" posX="-2022.3" posY="-317.5" posZ="35.4" rotX="0" rotY="3.999" rotZ="2"></object>
+    <object id="convertFFS (2)" breakable="true" interior="0" collisions="true" alpha="255" model="838" doublesided="false" scale="1" dimension="0" posX="-2031.92798" posY="-314.33765" posZ="35.75508" rotX="0" rotY="0" rotZ="305"></object>
+    <object id="convertFFS (3)" breakable="true" interior="0" collisions="true" alpha="255" model="840" doublesided="false" scale="1" dimension="0" posX="-2024.7" posY="-314.89999" posZ="35.8" rotX="4.999" rotY="1" rotZ="143.998"></object>
+    <object id="object (vegasNbball1) (1)" breakable="true" interior="0" collisions="true" alpha="255" model="6959" doublesided="false" scale="1" dimension="0" posX="-1474.1" posY="508.89999" posZ="55.7" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (CJ_WASTEBIN) (1)" breakable="true" interior="0" alpha="255" model="1347" doublesided="false" scale="1" dimension="0" posX="5.5" posY="8.5" posZ="2.7" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (DYN_DUMPSTER) (1)" breakable="true" interior="0" alpha="255" model="1415" doublesided="false" scale="1" dimension="0" posX="2.3" posY="4.8" posZ="2.1" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (DYN_SCAFFOLD_2) (1)" breakable="true" interior="0" alpha="255" model="1436" doublesided="false" scale="1" dimension="0" posX="10" posY="0.8" posZ="3.7" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (vegirlfrhouse02) (1)" breakable="true" interior="0" alpha="255" model="7940" doublesided="false" scale="1" dimension="0" posX="39.2" posY="-6.1" posZ="5" rotX="0" rotY="0" rotZ="0"></object>
+</map>
